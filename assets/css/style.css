@@ -67,6 +67,7 @@
 .credit {
     color: var(--bs-white);
     text-align: center;
+    padding-top: 20px;
 }
 
 body {
