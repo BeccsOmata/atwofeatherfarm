@@ -54,6 +54,21 @@
     font-weight: bold;
 }
 
+.info {
+    background-color: var(--bs-white);
+    text-align: justify;
+    padding: 10px;
+}
+
+.container {
+    padding: 10px;
+}
+
+.credit {
+    color: var(--bs-white);
+    text-align: center;
+}
+
 body {
     margin: 0;
     font-family: var( Britannic, Bell Gothic, Calibri, garamond, sans-serif);
