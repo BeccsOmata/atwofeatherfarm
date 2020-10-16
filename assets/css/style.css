@@ -70,6 +70,18 @@
     padding-top: 20px;
 }
 
+.guts {
+    background-color: var(--bs-white);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.image {
+    max-width: 500px;
+    min-width: auto;
+    padding: none;
+}
+
 body {
     margin: 0;
     font-family: var( Britannic, Bell Gothic, Calibri, garamond, sans-serif);
